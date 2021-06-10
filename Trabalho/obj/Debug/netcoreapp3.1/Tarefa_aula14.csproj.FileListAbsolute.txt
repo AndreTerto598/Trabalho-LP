@@ -1,0 +1,39 @@
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.exe
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.deps.json
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.runtimeconfig.json
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.runtimeconfig.dev.json
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.dll
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.pdb
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.csprojAssemblyReference.cache
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.AssemblyInfoInputs.cache
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.AssemblyInfo.cs
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.csproj.CoreCompileInputs.cache
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.dll
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.pdb
+C:\Users\Lohan\Desktop\Escola\LP\Tarefa Pontuada - Herança e Encalsulamento\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.genruntimeconfig.cache
+C:\Users\alone\Desktop\Tarefa_14-main\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.exe
+C:\Users\alone\Desktop\Tarefa_14-main\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.deps.json
+C:\Users\alone\Desktop\Tarefa_14-main\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.runtimeconfig.json
+C:\Users\alone\Desktop\Tarefa_14-main\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.runtimeconfig.dev.json
+C:\Users\alone\Desktop\Tarefa_14-main\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.dll
+C:\Users\alone\Desktop\Tarefa_14-main\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.pdb
+C:\Users\alone\Desktop\Tarefa_14-main\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.csprojAssemblyReference.cache
+C:\Users\alone\Desktop\Tarefa_14-main\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.AssemblyInfoInputs.cache
+C:\Users\alone\Desktop\Tarefa_14-main\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.AssemblyInfo.cs
+C:\Users\alone\Desktop\Tarefa_14-main\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.csproj.CoreCompileInputs.cache
+C:\Users\alone\Desktop\Tarefa_14-main\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.dll
+C:\Users\alone\Desktop\Tarefa_14-main\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.pdb
+C:\Users\alone\Desktop\Tarefa_14-main\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.genruntimeconfig.cache
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.csprojAssemblyReference.cache
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.AssemblyInfoInputs.cache
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.AssemblyInfo.cs
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.csproj.CoreCompileInputs.cache
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.dll
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.pdb
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.exe
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.deps.json
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.runtimeconfig.json
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.runtimeconfig.dev.json
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.dll
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\bin\Debug\netcoreapp3.1\Tarefa_aula14.pdb
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\obj\Debug\netcoreapp3.1\Tarefa_aula14.genruntimeconfig.cache

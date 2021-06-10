@@ -1,0 +1,12 @@
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\bin\Debug\netcoreapp3.1\Trabalho.exe
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\bin\Debug\netcoreapp3.1\Trabalho.deps.json
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\bin\Debug\netcoreapp3.1\Trabalho.runtimeconfig.json
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\bin\Debug\netcoreapp3.1\Trabalho.runtimeconfig.dev.json
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\bin\Debug\netcoreapp3.1\Trabalho.dll
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\bin\Debug\netcoreapp3.1\Trabalho.pdb
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\obj\Debug\netcoreapp3.1\Trabalho.AssemblyInfoInputs.cache
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\obj\Debug\netcoreapp3.1\Trabalho.AssemblyInfo.cs
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\obj\Debug\netcoreapp3.1\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\obj\Debug\netcoreapp3.1\Trabalho.dll
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\obj\Debug\netcoreapp3.1\Trabalho.pdb
+C:\Users\alone\Desktop\Trabalho\Tarefa_aula14\obj\Debug\netcoreapp3.1\Trabalho.genruntimeconfig.cache
